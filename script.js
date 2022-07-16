@@ -12,6 +12,9 @@ inputBtn.addEventListener ("click", function(){
       render()
 })
 
+
+
+
 function render()
   {
     //console.log(myLeads.length)
